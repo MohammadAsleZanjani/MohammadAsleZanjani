@@ -1,10 +1,12 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 <div align="center">
- <p>
+ <h3>
 - 🔭 I’m working as Full-Stack
+  <br>
 - 📚 I'm currently learning TesorFlow
+  <br>
 - ⚡ In my free time I Vibe Code
- </p>
+ </h3>
 </div>
 
 <div align="center">
