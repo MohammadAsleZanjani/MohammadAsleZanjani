@@ -1,7 +1,11 @@
 <h1 align="center">Hey 👋What's Up?</h1>
- 🔭 I’m working as Full-Stack
+<div align="center">
+ <p>
+- 🔭 I’m working as Full-Stack
 - 📚 I'm currently learning TesorFlow
 - ⚡ In my free time I Vibe Code
+ </p>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
