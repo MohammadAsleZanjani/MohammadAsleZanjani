@@ -73,8 +73,8 @@
  <h3>
 - 🔭 I’m working as Full-Stack
   <br>
-- 📚 I'm currently learning TesorFlow
+- 📚 I'm currently learning about LLMs
   <br>
-- ⚡ In my free time I Vibe Code
+- ⚡ PY OG 
  </h3>
 </div>
