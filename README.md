@@ -75,6 +75,6 @@
   <br>
 - 📚 I'm currently learning about LLMs
   <br>
-- ⚡ PY OG 
+- ⚡ PY JS 
  </h3>
 </div>
