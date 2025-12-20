@@ -75,6 +75,6 @@
   <br>
 - 📚 I'm currently learning about LLMs
   <br>
-- ⚡ PY JS 
+- ⚡ NEXTJS <3 
  </h3>
 </div>
